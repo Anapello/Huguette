@@ -1,1 +1,7 @@
 # Huguette
+
+let CROQUETTES = 12.0
+let ARGENT = 20.0
+let PETITESROBES = 9.0
+//if "ARGENT"<="PETITESROBES"+"CROQUETTES"}
+
